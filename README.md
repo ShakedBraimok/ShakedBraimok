@@ -5,9 +5,7 @@
 <a href="https://medium.com/@shakedbraimokyosef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shakedbraimokyosef" height="30" width="40" /></a>
 </p>
 
-- 💡 I’m the founder of [DevOpsnipp.com](https://DevOpsnipp.com)
-
-- 👩🏽‍💻 and the the developer of [Ansible-Editor](https://ansible-editor.com)
+- 💡 I’m the founder of [DevOpsnipp.com](https://DevOpsnipp.com) 👩🏽‍💻 and the the developer of [Ansible-Editor](https://ansible-editor.com)
 
 - 📫 How to reach me **shaked.braimok.yosef@gmail.com**
 
